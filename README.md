@@ -1,4 +1,4 @@
-﻿# API REST de Estudiantes
+﻿# API REST de Estudiantes con Spring Boot
 
 Este proyecto implementa una API REST con **Spring Boot**, **Kotlin**, **Spring Data JPA** y **H2** para gestionar estudiantes.
 
